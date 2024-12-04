@@ -59,7 +59,7 @@
   text-transform: capitalize;
 
   span {
-    color: var(--secondary-color);
+    color: var(--gold-color);
   }
 
   @media screen and (min-width: 2000px) {
@@ -85,7 +85,7 @@
 .bold-text {
   font-size: 1rem;
   font-weight: 800;
-  color: var(--black-color);
+  color: var(--gold-color);
   text-align: left;
 
   @media screen and (min-width: 2000px) {
